@@ -6,6 +6,7 @@
     'summary': 'Invoices, Payments, Follow-ups & Bank Synchronization',
     'sequence': 10,
     'description': """
+    'information': ""
 Invoicing & Payments
 ====================
 The specific and easy-to-use Invoicing system in Odoo allows you to keep track of your accounting, even when you are not an accountant. It provides an easy way to follow up on your vendors and customers.
